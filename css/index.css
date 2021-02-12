@@ -1,0 +1,38 @@
+h1 {
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1:before, h1:after {
+    position: absolute;
+    top: 52%;
+    width: 50%;
+    height: 2px;
+    content: '\a0';
+    background-color: black;
+    margin-left: 5px;
+}
+
+h1:before {
+    margin-left: -50%;
+}
+
+.category {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.elem {
+    border: 1px solid black;
+    width: 25em;
+}
+
+img {
+    width: 25em;
+    height: auto;
+}
+
+div > p {
+    text-align: center;
+}
