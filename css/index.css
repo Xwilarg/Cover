@@ -38,7 +38,12 @@ div > p {
 }
 
 iframe {
-    position: absolute;
-    right: 0;
-    top: 3em;
+    position: fixed;
+    right: .5em;
+    top: 1em;
+    z-index: 1;
+}
+
+.hidden {
+    display: none;
 }

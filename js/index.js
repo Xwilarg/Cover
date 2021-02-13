@@ -6,6 +6,7 @@ window.onload = function() {
             let url = "https://www.youtube.com/embed/" + e.id + "?autoplay=1";
             if (frame.src !== url) {
                 frame.src = url;
+                frame.classList.remove("hidden");
             }
         });
     });
