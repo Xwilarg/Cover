@@ -47,3 +47,12 @@ iframe {
 .hidden {
     display: none;
 }
+
+.rabbit-lyrics {
+    border: 1px black solid;
+}
+
+#lyrics {
+    display: flex;
+    justify-content: center;
+}
