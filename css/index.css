@@ -37,6 +37,12 @@ div > p {
     text-align: center;
 }
 
+body > p {
+    text-align: center;
+    border: 1px solid black;
+    padding: .5em;
+}
+
 iframe {
     position: fixed;
     right: .5em;
@@ -50,6 +56,7 @@ iframe {
 
 .rabbit-lyrics {
     border: 1px black solid;
+    padding-left: .5em;
 }
 
 #lyrics {
