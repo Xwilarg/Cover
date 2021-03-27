@@ -7,6 +7,7 @@ Since I really like that variety, I made a website to display all of them side b
 ## Website
  - [King](https://king.zirk.eu/king.html)
  - [Envy Baby](https://king.zirk.eu/envybaby.html)
+ - [Usseewa](https://king.zirk.eu/usseewa.html)
 
 ## Philosophy
 My general guideline is to take all covers that were posted by an official YouTube channel (that means I don't take the ones that were from some karaoke streaming)\
