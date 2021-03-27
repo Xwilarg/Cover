@@ -18,9 +18,9 @@ h1:before {
     margin-left: -50%;
 }
 
-.category {
-    display: flex;
-    flex-flow: wrap;
+h2 {
+    text-align: center;
+    padding-top: .5em;
 }
 
 .elem {
@@ -62,4 +62,67 @@ iframe {
 #lyrics {
     display: flex;
     justify-content: center;
+}
+
+.hololive {
+    background-image: url("../img/background/hololive.jpg");
+}
+
+.nijisanji {
+    background-image: url("../img/background/nijisanji.jpg");
+}
+
+.stellarCycleCampus {
+    background-image: url("../img/background/stellar_cycle_campus.jpg");
+}
+
+.reAct {
+    background-image: url("../img/background/re_act.jpeg");
+}
+
+.mahapanca {
+    background-image: url("../img/background/mahapanca.jpg");
+}
+
+.aiChannel {
+    background-image: url("../img/background/ai_channel.png");
+}
+
+.english {
+    background-image: url("../img/background/english.svg");
+}
+
+.german {
+    background-image: url("../img/background/german.svg");
+}
+
+.thai {
+    background-image: url("../img/background/thai.svg");
+}
+
+.korean {
+    background-image: url("../img/background/korean.svg");
+}
+
+.russian {
+    background-image: url("../img/background/russian.svg");
+}
+
+.indonesian {
+    background-image: url("../img/background/indonesian.svg");
+}
+
+.vietnamese {
+    background-image: url("../img/background/vietnamese.svg");
+}
+
+.background {
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, .5);
+}
+
+.category {
+    display: flex;
+    flex-flow: wrap;
+    padding-bottom: 2em;
 }
